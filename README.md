@@ -1,5 +1,6 @@
 我新增了学习笔记，在各自章节下，特别是会加入一些知识要点和一些实用的技巧。
-
+中文译版目前是有了，总体翻译质量尚可，不过还是缺少专业的Review，不乏翻译的纰漏。
+其实还是建议专有名词需要对照UE官方的来翻译，读者请注意甄别。
 
 # Elevating Game Experiences with Unreal Engine 5 - Second Edition
 
